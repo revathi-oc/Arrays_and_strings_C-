@@ -9,7 +9,11 @@ For strings, you can use functions like `length()`, `substr()`, `find()`, and `a
 For arrays, common operations include accessing elements with the `[]` operator, iterating with loops, and modifying elements directly. Arrays in C++ are of fixed size and don’t have built-in functions like strings, so you often use loops or standard library functions to manage them. 
 
 ## Output
-
+1
+2
+![image](https://github.com/user-attachments/assets/120e5167-4390-4e69-9714-7a3253589e9e)
+4
+5
 ![image](https://github.com/user-attachments/assets/053abc53-7a5a-47de-b597-b11c11fb0720)
 
 ![image](https://github.com/user-attachments/assets/26f71c20-d534-4acd-aa0c-79caa86f8270)
